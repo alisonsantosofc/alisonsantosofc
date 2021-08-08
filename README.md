@@ -10,7 +10,7 @@
 
 <h2 align="center">Contatos</h2>
 
-<p align="center">
+<p>
   <a href="alisonsantoso22@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
@@ -93,3 +93,4 @@
   [![GitHub Alison Santos]( https://img.shields.io/github/followers/alisonsantosofc?label=follow&style=social)]()
   ![](https://komarev.com/ghpvc/?username=alisonsantosofc&color=orange&label=Visualizações)
 </div> 
+
