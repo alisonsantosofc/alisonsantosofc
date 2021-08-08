@@ -8,6 +8,8 @@
 - 💼 &nbsp; Procurando por oportunidades na área de **Desenvolvimento de Sistemas Web**.
 - 🎯 &nbsp; Aprendendo mais sobre **JavaScript - React Native - Node.js**
 
+<h2 align="center">Contatos</h2>
+
 <p align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=alisonsantoso22@gmail.com" /></a>
@@ -32,7 +34,7 @@
   <h1 align="center">Habilidades</h1>
   <div>
   
-  <h2>Aplicações e Dados</h2>
+  **Aplicações e Dados**
   <br/>
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,7 +48,7 @@
   </div>
   <div>
   
-  <h2>DevOps</h2>
+  **DevOps**
   <br/>
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -54,7 +56,7 @@
   </div>
   <div>
   
-  <h2>Ferramentas de Desenvolvimento</h2>
+  **Ferramentas de Desenvolvimento**
   <br/>
 
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
