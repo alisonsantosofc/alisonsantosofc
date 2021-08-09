@@ -73,5 +73,5 @@
   ![](https://komarev.com/ghpvc/?username=alisonsantosofc&color=orange&label=Views)
 </div> 
 
-[![alisonsantosofc](https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&layout=compact=true&theme=default)](https://github.com/alisonsantosofc/)
+[![GitHub Alison Santos](https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&layout=compact=true&theme=default)](https://github.com/alisonsantosofc/)
 
