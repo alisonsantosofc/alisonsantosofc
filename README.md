@@ -8,7 +8,7 @@
 - 💼 &nbsp; Procurando por oportunidades na área de **Desenvolvimento de Sistemas Web**.
 - 🎯 &nbsp; Aprendendo mais sobre **JavaScript - React Native - Node.js**
 
-<h2 align="center">Contact</h2>
+<h2 align="center">Contacts</h2>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:alisonsantoso22@gmail.com" alt="Gmail">
