@@ -60,7 +60,7 @@
     </a>
     &nbsp; &nbsp;
     <a href="https://github.com/anuraghazra/github-redme-stats">
-      <img align="center" src="https://github-profile-languages.vercel.app/api/top-langs/?username=alisonsantosofc&theme=vision-friendly-dark"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&theme=vision-friendly-dark"/>
     </a>
   </p>
 </div>
@@ -72,5 +72,3 @@
   [![GitHub Alison Santos]( https://img.shields.io/github/followers/alisonsantosofc?label=follow&style=social)]()
   ![](https://komarev.com/ghpvc/?username=alisonsantosofc&color=orange&label=Views)
 </div> 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&theme=vision-friendly-dark"/>
