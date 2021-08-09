@@ -8,9 +8,9 @@
 - 💼 &nbsp; Procurando por oportunidades na área de **Desenvolvimento de Sistemas Web**.
 - 🎯 &nbsp; Aprendendo mais sobre **JavaScript - React Native - Node.js**
 
-<h2 align="center">Contatos</h2>
+<h2 align="center">Contact</h2>
 
-<p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:alisonsantoso22@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
@@ -70,5 +70,5 @@
 <div align="center">
   
   [![GitHub Alison Santos]( https://img.shields.io/github/followers/alisonsantosofc?label=follow&style=social)]()
-  ![](https://komarev.com/ghpvc/?username=alisonsantosofc&color=orange&label=Visualizações)
+  ![](https://komarev.com/ghpvc/?username=alisonsantosofc&color=orange&label=Views)
 </div> 
