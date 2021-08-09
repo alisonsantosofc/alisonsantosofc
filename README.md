@@ -8,8 +8,6 @@
 - 💼 &nbsp; Procurando por oportunidades na área de **Desenvolvimento de Sistemas Web**.
 - 🎯 &nbsp; Aprendendo mais sobre **JavaScript - React Native - Node.js**
 
-<br>
-
 <h2 align="center">Contacts</h2>
 
 <p>
@@ -55,6 +53,7 @@
 </div>
 
 <br/>
+<br>
   
 <div align="center">
   <p align="center">
