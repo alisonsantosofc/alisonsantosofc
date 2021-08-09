@@ -1,43 +1,67 @@
-<h2> Hey there! I'm Charlys Torres. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🔭 &nbsp; I’m currently learning React Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying React, React Native and NodeJS.
-- 💼 &nbsp; Android, IOS, developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in Game Developer and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python | TypeScript | Java | JavaScript | Dart
-- 🌐 &nbsp; Android | Flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; SQLite | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Figma | Inkscape | Gimp | Blender | UPBGE |
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"/>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc)](https://github.com/anuraghazra/github-readme-stats)
+<h2> ⚡ &nbsp;Info </h2>
 
+- 🌍 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 📚 &nbsp; Estudando **Desenvolvimento Front-End** na <a href="https://digitalinnovation.one/">Digital Innovation One</a>.
+- 💼 &nbsp; Procurando por oportunidades na área de **Desenvolvimento de Sistemas Web**.
+- 🎯 &nbsp; Aprendendo mais sobre **JavaScript - React Native - Node.js**
 
-<br>
+<h2 align="center">Contacts</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alisonsantosofc)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:alisonsantoso22@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br>
+  <a href="https://www.linkedin.com/in/alison-santos-968170180/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
+ <a href="https://github.com/alisonsantosofc" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
+  <a href="https://www.facebook.com/profile.php?id=100010942952697" alt="Facebook">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-&nbsp; <a href="https://twitter.com/torrescharlys" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/charlysbrowntorres/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/charlys-torres-67505a149/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:charlysbrowntorres@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+  <a href="https://www.instagram.com/alisonsantosofc/" alt="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-⭐️ From [devSouvik](https://github.com/devSouvik)
+<br/>
+<br/>
+
+<div align="center">
+  <h1 align="center">🚀Skills</h1>
+
+  <p align="center">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">										      
+  </p>	
+</div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&theme=graywhite" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alisonsantosofc&hide=prs,issues&theme=graywhite" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center">
+  
+  [![GitHub Alison Santos]( https://img.shields.io/github/followers/alisonsantosofc?label=follow&style=social)]()
+  ![](https://komarev.com/ghpvc/?username=alisonsantosofc&color=orange&label=Views)
+</div> 
+
