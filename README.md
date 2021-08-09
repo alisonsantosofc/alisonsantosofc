@@ -51,17 +51,22 @@
   </p>	
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&theme=graywhite" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alisonsantosofc&hide=prs,issues&theme=graywhite" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+  
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-redme-stats">
+    <img align="center" height="130" src="https://github-readme-stats.vercel.app/api?username=alisonsantosofc&hide=prs,issues&show_icons=true&theme=graywhite"/>
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&theme=vision-friendly-dark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&theme=graywhite"/>
+  </a>
+</p>
+
+<br/>
+
 <div align="center">
   
   [![GitHub Alison Santos]( https://img.shields.io/github/followers/alisonsantosofc?label=follow&style=social)]()
   ![](https://komarev.com/ghpvc/?username=alisonsantosofc&color=orange&label=Views)
 </div> 
-
