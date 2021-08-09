@@ -72,6 +72,3 @@
   [![GitHub Alison Santos]( https://img.shields.io/github/followers/alisonsantosofc?label=follow&style=social)]()
   ![](https://komarev.com/ghpvc/?username=alisonsantosofc&color=orange&label=Views)
 </div> 
-
-[![GitHub Alison Santos](https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&layout=compact=true&theme=default)](https://github.com/alisonsantosofc/)
-
