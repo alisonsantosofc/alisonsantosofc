@@ -10,7 +10,7 @@
 
 <h2 align="center">Contacts</h2>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;
+<p>
   <a href="mailto:alisonsantoso22@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
