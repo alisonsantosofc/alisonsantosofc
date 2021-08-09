@@ -10,7 +10,7 @@
 
 <h2 align="center">Contacts</h2>
 
-<p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:alisonsantoso22@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
@@ -32,8 +32,7 @@
 
 <div align="center">
   <h1 align="center">🚀Skills</h1>
-  <br>
-  
+
   <p align="center">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -53,15 +52,14 @@
 </div>
 
 <br/>
-<br>
   
 <div align="center">
   <p align="center">
-    <a href="https://github.com/alisonsantosofc">
+    <a href="https://github.com/anuraghazra/github-redme-stats">
       <img align="center" height="130" src="https://github-readme-stats.vercel.app/api?username=alisonsantosofc&hide=prs,issues&show_icons=true&theme=vision-friendly-dark"/>
     </a>
     &nbsp; &nbsp;
-    <a href="https://github.com/alisonsantosofc">
+    <a href="https://github.com/anuraghazra/github-redme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&theme=vision-friendly-dark"/>
     </a>
   </p>
