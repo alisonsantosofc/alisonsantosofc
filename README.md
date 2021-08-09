@@ -53,17 +53,15 @@
 
 <br/>
   
-<div align="center">
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-redme-stats">
-      <img align="center" height="130" src="https://github-readme-stats.vercel.app/api?username=alisonsantosofc&hide=prs,issues&show_icons=true&theme=vision-friendly-dark"/>
-    </a>
-    &nbsp; &nbsp;
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&theme=vision-friendly-dark">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&theme=vision-friendly-dark"/>
-    </a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-redme-stats">
+    <img align="center" height="130" src="https://github-readme-stats.vercel.app/api?username=alisonsantosofc&hide=prs,issues&show_icons=true&theme=vision-friendly-dark"/>
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&theme=vision-friendly-dark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&theme=vision-friendly-dark"/>
+  </a>
+</p>
 
 <br/>
 
