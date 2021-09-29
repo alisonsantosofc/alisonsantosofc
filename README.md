@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"/>
 <br>
 
-<h2> ⚡ &nbsp;Info </h2>
+<h2> ⚡ &nbsp;I'm Alison Santos </h2>
 
-- 🌍 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 📚 &nbsp; Estudando **Desenvolvimento Front-End** na <a href="https://digitalinnovation.one/">Digital Innovation One</a>.
-- 💼 &nbsp; Procurando por oportunidades na área de **Desenvolvimento de Sistemas Web**.
-- 🎯 &nbsp; Aprendendo mais sobre **JavaScript - React Native - Node.js**
+- 📚 &nbsp; Studying Systems Analysis and Development at <a href="https://portal.uniasselvi.com.br/">UNIASSELVI</a>
+- 🌍 &nbsp; Studying **Front-End Development** at <a href="https://digitalinnovation.one/">Digital Innovation One</a>.
+- 💼 &nbsp; Looking for opportunities in the area of **Web Systems Development**.
+- 🎯 &nbsp; Learning more about **JavaScript - React Native - Node.js**
 
 <h2 align="center">Contacts</h2>
 
