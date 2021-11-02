@@ -58,13 +58,9 @@
   <p align="center">
     <img height="52" src="https://i.ibb.co/sj3mwMT/visual-studio-code.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="52" src="https://i.ibb.co/JvxvpMj/figma-logo-icon-170157.png">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="52" src="https://i.ibb.co/b2KD39g/1485282143-adobe-illustrator-cc-creative-cloud-78298.png">	
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="52" src="https://i.ibb.co/wBnLgQY/1485282157-adobe-photoshop-raster-graphics-editor-cc-creative-cloud-78285.png">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="52" src="https://i.ibb.co/0m6d7xD/git.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="52" src="https://i.ibb.co/JvxvpMj/figma-logo-icon-170157.png">
   </p>	
 </div>
 <br>
