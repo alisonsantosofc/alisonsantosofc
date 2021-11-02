@@ -86,7 +86,5 @@
 <br>
 
 <div align="center">
-  
-  [![GitHub Alison Santos]( https://img.shields.io/github/followers/alisonsantosofc?label=follow&style=social)]()
   ![](https://komarev.com/ghpvc/?username=alisonsantosofc&color=orange&label=Views)
 </div> 
