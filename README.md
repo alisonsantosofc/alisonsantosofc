@@ -1,57 +1,77 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode"/>
+
 <br>
 
-<h2> ⚡ &nbsp;I'm Alison Santos </h2>
+<h1> ⚡ &nbsp;I'm Alison Santos </h1>
 
 - 📚 &nbsp; Studying Systems Analysis and Development at <a href="https://portal.uniasselvi.com.br/">UNIASSELVI</a>
-- 🌍 &nbsp; Studying **Front-End Development** at <a href="https://digitalinnovation.one/">Digital Innovation One</a>.
-- 💼 &nbsp; Looking for opportunities in the area of **Web Systems Development**.
-- 🎯 &nbsp; Learning more about **JavaScript - React Native - Node.js**
+- 🌍 &nbsp; Studying **Front-End Development** at <a href="https://digitalinnovation.one/">Digital Innovation One</a>
+- 💼 &nbsp; Looking for opportunities in the area of **Web Systems Development**
+- 🎯 &nbsp; Learning more about **TypeScript - Sass - React.js - Node.js - React Native**
 
-<h2 align="center">Contacts</h2>
+<h1 align="center">📲️ Contacts</h1>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:alisonsantoso22@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
   <a href="https://www.linkedin.com/in/alison-santos-968170180/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
- <a href="https://github.com/alisonsantosofc" alt="GitHub">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+ 
   <a href="https://www.facebook.com/profile.php?id=100010942952697" alt="Facebook">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 
   <a href="https://www.instagram.com/alisonsantosofc/" alt="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 <br/>
 <br/>
 
 <div align="center">
-  <h1 align="center">🚀Skills</h1>
+  <h1 align="center">🚀 Skills</h1>
 
   <p align="center">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img height="52" src="https://i.ibb.co/QJhWHgC/javascript-original-logo-icon-146455.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+    <img height="52" src="https://i.ibb.co/CMLscvN/typescript-original-logo-icon-146317.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img height="52" src="https://i.ibb.co/pZ6wHd0/sass-original-logo-icon-146350.png">	
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="52" src= "https://i.ibb.co/svqX7q2/react.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">										      
+    <img height="52" src="https://i.ibb.co/YywhwD8/react-native-original-logo-icon-146374.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="52" src="https://i.ibb.co/0czrz2C/node.png">
   </p>	
 </div>
+<br>
+<br>
 
-<br/>
+<div align="center">
+  <h1 align="center">🛠️ Tools</h1>
+
+  <p align="center">
+    <img height="52" src="https://i.ibb.co/sj3mwMT/visual-studio-code.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="52" src="https://i.ibb.co/JvxvpMj/figma-logo-icon-170157.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="52" src="https://i.ibb.co/b2KD39g/1485282143-adobe-illustrator-cc-creative-cloud-78298.png">	
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="52" src="https://i.ibb.co/wBnLgQY/1485282157-adobe-photoshop-raster-graphics-editor-cc-creative-cloud-78285.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="52" src="https://i.ibb.co/0m6d7xD/git.png">
+  </p>	
+</div>
+<br>
+<br>
+
+<h1 align="center">📋️ Status</h1>
+<br>
   
 <p align="center">
   <a href="https://github.com/anuraghazra/github-redme-stats">
@@ -63,7 +83,7 @@
   </a>
 </p>
 
-<br/>
+<br>
 
 <div align="center">
   
