@@ -82,9 +82,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&theme=graywhite"/>
   </a>
 </p>
-
-<br>
-
-<div align="center">
-  ![](https://komarev.com/ghpvc/?username=alisonsantosofc&color=orange&label=Views)
-</div> 
