@@ -5,8 +5,8 @@
 <h1> ⚡ &nbsp;I'm Alison Santos </h1>
 
 - 📚 &nbsp; Studying Systems Analysis and Development at <a href="https://portal.uniasselvi.com.br/">UNIASSELVI</a>
-- 🌍 &nbsp; Studying **Front-End Development** at <a href="https://digitalinnovation.one/">Digital Innovation One</a>
-- 💼 &nbsp; Looking for opportunities in the area of **Web Systems Development**
+- 🌍 &nbsp; Studying **Front-End & Back-End Development** at <a href="https://www.rocketseat.com.br/">Rocketseat</a>
+- 💼 &nbsp; Looking for opportunities in the area of **Front-End Development**
 - 🎯 &nbsp; Learning more about **TypeScript - Sass - React.js - Node.js - React Native**
 
 <h1 align="center">📲️ Contacts</h1>
