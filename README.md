@@ -75,7 +75,7 @@
   </a>
   &nbsp; &nbsp;
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&theme=vision-friendly-dark">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&theme=graywhite"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&theme=graywhite&langs_count=8"/>
   </a>
 </p>
 <br>
