@@ -3,8 +3,10 @@
 <br>
 
 <h1> Alison Santos </h1>
+<p>Student of Systems Analysis and Development at <a href="https://portal.uniasselvi.com.br/">UNIASSELVI</a> and studying web and mobile development technologies.</p>
 
- Studying Systems Analysis and Development at <a href="https://portal.uniasselvi.com.br/">UNIASSELVI</a>
+<p>With programming it is even possible to change our way of life and the way we think about everything, I believe that with persistence and determination it is possible to achieve great results.</p>
+
 
 
 <h1 align="center">📲️ Contacts</h1>
@@ -34,17 +36,21 @@
   <h1 align="center">🚀 Skills</h1>
 
   <p align="center">
+    <img height="52" src="https://cdn.cdnlogo.com/logos/h/84/html.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="52" src="https://cdn.cdnlogo.com/logos/c/18/css.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="52" src="https://i.ibb.co/QJhWHgC/javascript-original-logo-icon-146455.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="52" src="https://i.ibb.co/CMLscvN/typescript-original-logo-icon-146317.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="52" src="https://i.ibb.co/pZ6wHd0/sass-original-logo-icon-146350.png">	
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="52" src= "https://i.ibb.co/svqX7q2/react.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="52" src="https://i.ibb.co/YywhwD8/react-native-original-logo-icon-146374.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="52" src="https://i.ibb.co/0czrz2C/node.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="52" src="https://i.ibb.co/pZ6wHd0/sass-original-logo-icon-146350.png">	
   </p>	
 </div>
 <br>
