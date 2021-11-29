@@ -36,10 +36,6 @@
   <h1 align="center">🚀 Skills</h1>
 
   <p align="center">
-    <img height="52" src="https://cdn.cdnlogo.com/logos/h/84/html.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="52" src="https://cdn.cdnlogo.com/logos/c/18/css.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="52" src="https://i.ibb.co/QJhWHgC/javascript-original-logo-icon-146455.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="52" src="https://i.ibb.co/CMLscvN/typescript-original-logo-icon-146317.png">
