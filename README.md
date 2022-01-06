@@ -5,11 +5,9 @@
 <h1> Alison Santos </h1>
 <p>Enthusiast of the best Web & Mobile development technologies.</p>
 
-<p>Student of Systems Analysis and Development at <a href="https://portal.uniasselvi.com.br/">UNIASSELVI</a> and studying web and mobile development technologies.</p>
-
 <p>With programming it is even possible to change our way of life and the way we think about everything, I believe that with persistence and determination it is possible to achieve great results.</p>
 
-
+<p>Student of Systems Analysis and Development at <a href="https://portal.uniasselvi.com.br/">UNIASSELVI</a> and studying web and mobile development technologies.</p>
 
 <h1 align="center">📲️ Contacts</h1>
 
