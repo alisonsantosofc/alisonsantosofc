@@ -76,7 +76,7 @@
     <img align="center" height="130" src="https://github-readme-stats.vercel.app/api?username=alisonsantosofc&hide=prs,issues&show_icons=true&theme=graywhite"/>
   </a>
   &nbsp; &nbsp;
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&theme=vision-friendly-dark">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&hide=html,css,java,objectivec&theme=vision-friendly-dark">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&theme=graywhite&langs_count=6"/>
   </a>
 </p>
