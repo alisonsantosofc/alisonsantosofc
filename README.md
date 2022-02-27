@@ -77,7 +77,7 @@
   </a>
   &nbsp; &nbsp;
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&theme=vision-friendly-dark">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&hide=css,java,ruby,starlarkobjective-c&theme=graywhite&langs_count=6"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsantosofc&hide=css,java,ruby,starlark,objective-c&theme=graywhite&langs_count=6"/>
   </a>
 </p>
 <br>
