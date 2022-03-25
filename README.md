@@ -49,6 +49,8 @@
     <img height="52" src="https://i.ibb.co/0czrz2C/node.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="52" src="https://i.ibb.co/pZ6wHd0/sass-original-logo-icon-146350.png">	
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="52" src="https://i.ibb.co/r2J3yLc/file-type-styled-icon-130142.png">	
   </p>	
 </div>
 <br>
@@ -58,11 +60,19 @@
   <h1 align="center">🛠️ Tools</h1>
 
   <p align="center">
-    <img height="52" src="https://i.ibb.co/sj3mwMT/visual-studio-code.png">
+    <img height="52" src="https://i.ibb.co/JvxvpMj/figma-logo-icon-170157.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="52" src="https://i.ibb.co/0m6d7xD/git.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="52" src="https://i.ibb.co/JvxvpMj/figma-logo-icon-170157.png">
+    <img height="52" src="https://i.ibb.co/dDs3Jw6/file-type-docker.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="52" src="https://i.ibb.co/8rjMkzs/eslint-logo-icon-171175.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="52" src="https://i.ibb.co/9N4zs8S/file-type-light-prettier-icon-130445.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="52" src="https://i.ibb.co/kGgDMtw/insomnia-94603.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="52" src="https://i.ibb.co/Q8nfRQ7/dbeaver-103190.png">
   </p>	
 </div>
 <br>
