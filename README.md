@@ -101,3 +101,10 @@
 <br>
 <br>
 <p align="center">&copy; 2021 Developed by <b><a href="https://alisonsantosofc.github.io/alison-web-developer/">Alison Santos</a></b><p>
+
+## Total Profile Views :detective: <br>
+<p align="center"> 
+ <img alingn="center" src="https://profile-counter.glitch.me/alisonsantosofc/count.svg" />
+</p>
+
+<img src="https://imgur.com/rilHVxA.png"/>
