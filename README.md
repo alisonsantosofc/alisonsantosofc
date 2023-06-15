@@ -3,7 +3,7 @@
 <br>
 
 <h1> Alison Santos </h1>
-<p>Enthusiast of the best web and mobile development technologies, I am always focused on improving my skills and achieving my professional goals, I believe that programming changes people's lives.</p>
+<p>Enthusiast of the best web and mobile development technologies, I'm always focused on improving my skills and achieving my professional goals, I believe that programming changes people's lives.</p>
 
 <h1 align="center">📲️ Contacts</h1>
 
