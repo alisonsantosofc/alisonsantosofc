@@ -3,11 +3,7 @@
 <br>
 
 <h1> Alison Santos </h1>
-<p>Enthusiast of the best Web & Mobile development technologies.</p>
-
-<p>With programming it is even possible to change our way of life and the way we think about everything, I believe that with persistence and determination it is possible to achieve great results.</p>
-
-<p>Student of Systems Analysis and Development at <a href="https://blog.uninassau.edu.br/">UNINASSAU</a> and studying Web and Mobile development technologies.</p>
+<p>Enthusiast of the best web and mobile development technologies, I am always focused on improving my skills and achieving my professional goals, I believe that programming changes people's lives.</p>
 
 <h1 align="center">📲️ Contacts</h1>
 
