@@ -6,6 +6,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=alisonsantosofc&label=Profile%20views&color=0e75b6&style=flat" alt="alisonsantosofc" /></p>
 
 <h3 align="left">Recent Status:</h3>
+
 - 🔭 I’m currently working on <a href="https://app.maquinadelucro.com" target="blank">Máquina de Lucro</a>
 
 - 🌱 I’m currently learning **Java, Spring Boot**
@@ -14,14 +15,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://linkedin.com/in/alisonsantosofc" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="alisonsantoso22@gmail.com" />
+  <a text-decoration="none" href="https://linkedin.com/in/alisonsantosofc" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="alisonsantoso22@gmail.com" />
   </a>
-  <a href="https://linkedin.com/in/alisonsantosofc" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alisonsantosofc" height="30" width="40" />
+  <a text-decoration="none" href="https://linkedin.com/in/alisonsantosofc" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
-  <a href="https://instagram.com/alisonsantosofc" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alisonsantosofc" height="30" width="40" />
+  <a text-decoration="none" href="https://instagram.com/alisonsantosofc" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a text-decoration="none" href="https://wa.me/5581983423876?" target="blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" />
   </a>
 </div>
 
