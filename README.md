@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot.**
 
-- 📫 How to reach me **alisonsantoso22@gmail.com / +5581983423876**
+- 📫 How to reach me **alisonsantoso22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,9 +25,9 @@
 <p><a href="https://ko-fi.com/alisonsantosofc"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="alisonsantosofc" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonsantosofc&show_icons=true&locale=en&layout=compact" alt="alisonsantosofc" /></p>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonsantosofc&show_icons=true&locale=en&layout=compact" alt="alisonsantosofc" /></div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alisonsantosofc&show_icons=true&locale=en" alt="alisonsantosofc" /></p>
+<div align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=alisonsantosofc&show_icons=true&locale=en" alt="alisonsantosofc" /></div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alisonsantosofc&" alt="alisonsantosofc" /></p>
+<div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alisonsantosofc&" alt="alisonsantosofc" /></div>
 
